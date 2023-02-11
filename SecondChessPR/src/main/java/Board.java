@@ -25,8 +25,8 @@ public class Board {
             }
             System.out.print(count);
             count--;
-            System.out.println();
-            System.out.println("  ---------------------------------");
+            
+            System.out.println("\n  ---------------------------------");
         }
         System.out.println("    a   b   c   d   e   f   g   h");
         System.out.println();
